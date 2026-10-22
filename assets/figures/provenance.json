@@ -1,0 +1,30 @@
+[
+  {
+    "asset": "spikemamba-architecture.svg",
+    "source_description": "SpikeMamba architecture, camera-ready source",
+    "source_sha256": "09a23886b0bbeb06c1467bbf21235ad614d6c02994a7cb04c9f1e17d143e443b",
+    "conversion": "pdftocairo -svg; no rasterization",
+    "output_sha256": "7fbc25a4d3f7a5ce359ec39aa7fdae12d9c0e25951bef17f8f4fb7765433e707"
+  },
+  {
+    "asset": "spikemamba-pipeline.svg",
+    "source_description": "SpikeMamba experimental overview, camera-ready source",
+    "source_sha256": "17b00b624e6e31bcf65576cd6cd8b437db96e06ef7d113eba11a6d6b1257d6d2",
+    "conversion": "pdftocairo -svg; no rasterization",
+    "output_sha256": "ed47372f68e56140cc43fa51c0bb214b548dfff70263229ebe3d892d89824ac4"
+  },
+  {
+    "asset": "event-recurrence.svg",
+    "source_description": "Pay at the Event, supplied manuscript vector figure",
+    "source_sha256": "82721bdb1c3728342c12a02ff15b6c06ad5ef4edc54a41e8580f18020dd3f477",
+    "conversion": "pdftocairo -svg; no rasterization",
+    "output_sha256": "366dcc689f8597f9eb4cce6884be0a71bbaa960a1f973fb1a0e71cb0695973ad"
+  },
+  {
+    "asset": "firefly-architecture.svg",
+    "source_description": "Firefly, supplied manuscript vector figure",
+    "source_sha256": "591e98783c075489271a60f2aba5d99f30140db52ecd6591fd23d11db844e08f",
+    "conversion": "pdftocairo -svg; no rasterization",
+    "output_sha256": "ecd458e14bd7ae290ca7bc4c605dea1377fa4bfe6d8b5a459ecf1a82f99a5f83"
+  }
+]
